@@ -1,2 +1,2 @@
-# kss
-KSS materials
+# KSS materials
+Collection of materials for KSS.
